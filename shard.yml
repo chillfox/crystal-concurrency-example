@@ -1,0 +1,13 @@
+name: crystal_concurrency
+version: 0.1.0
+
+authors:
+  - Mia Iversen <mia@chillfox.com>
+
+targets:
+  crystal_concurrency:
+    main: src/crystal_concurrency.cr
+
+crystal: 0.35.1
+
+license: MIT
